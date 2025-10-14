@@ -1,1 +1,1 @@
-# RL Mamba Code
+# RL-Mamba for WSI Classification
