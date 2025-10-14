@@ -17,7 +17,7 @@ def log_message(message, log_file):
 
 
 def get_args_parser():
-    parser = argparse.ArgumentParser('DQN with MAMBA WSI C2C classification', add_help=False)
+    parser = argparse.ArgumentParser('RL_Mamba classification', add_help=False)
     parser.add_argument('--num_classes', default=5, type=int)   
     parser.add_argument('--feature_dim', default=1024, type=int)  
     parser.add_argument('--hidden_dim', default=512, type=int)  
