@@ -48,4 +48,4 @@ python extraction.py
 ```
 python train.py --epochs EPOCH --lr LR --num_classes NUM --batch_size BATCH_SIZE --device DEVICE  --patch_budget BUDGET mamba_depth --DEPTH 
 ```
-Code for visualizing intermediate results will be available soon
+Code for visualizing intermediate results will be available soon.
