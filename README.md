@@ -1,7 +1,7 @@
 # RL-Mamba for WSI Classification
 # Reinforcement Learning-based Whole Slide Image Discriminative Region Sampling and Classification Framework
 ## Installation
-create a conda env and install these packages：
+create a conda env and install these packages:
 ```
 conda create -n rl-mamba python=3.10 -y
 conda activate rl-mamba
