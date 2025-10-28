@@ -1,10 +1,10 @@
-# RL-Mamba for WSI Classification
-# Reinforcement Learning-based Whole Slide Image Discriminative Region Sampling and Classification Framework
+# DRSF for WSI Classification
+# Reinforcement Learning-guided Discriminative Region Sampling in Histopathology
 ## Installation
 create a conda env and install these packages:
 ```
-conda create -n rl-mamba python=3.10 -y
-conda activate rl-mamba
+conda create -n rl-drsf python=3.10 -y
+conda activate rl-drsf
 pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118
 ```
 Install causal_conv1d and mamba respectively:
